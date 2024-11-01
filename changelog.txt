@@ -1,0 +1,84 @@
+* 3a98304 : 4.2
+* 84ce575 : php 8 is terrible fix
+* c22a584 : php 8 fixes
+* e179ccb : php 8 fix
+* 15cc457 : removeEventListener on unmount
+* ae337cc : component reload and ?post added in api
+* cc5d719 : 4.1
+* ef165dc : hanges
+* 2fdc8b1 : relative path to js
+* c95e6c1 : open login popup for points for course for non logged in user
+* 0779938 : poitns awarding started working man
+* 8b81f4e : add script to bp single page
+* a25293b : 4.1
+* 72c284a : mycred addon fixes
+* aceb471 : mycred pricing popup not working fix
+* 84c0a6f : language
+* d8d34af : changelog
+* e32e469 : 4.0.1
+* 00256dd : remove print_r
+* edda6ca : assign course sin v4
+* dcdc6c6 : logs
+* 6e6ca6c : logs pag no
+* 9c66c8b : points awarding for quizzes
+* b3c2b1c : logs fixed
+* f4b5e17 : buy with points added
+* 01c7a1e : logs in profile
+* e226435 : vibebp init
+* 74f8f61 : course points awarding done
+* a2d7c31 : 1.7
+* 7d45a8f : continue in place of return to let continue other module_criteria ids
+* 3feae11 : unit complete not working in app fix
+* c5c088c : fixed mycred points not working when 3 assignments with 3 points criteria is done in a row
+* 24b3792 : Depcrecated function warning removed for php 7.0.26 version
+* 7d51f55 : Translation bug fixed
+* 064d8db : 1.6.1
+* a5bdbf3 : App style header conflict fix
+* 556d0e2 : 1.6
+* d9468e2 : compatibility with MyCred 1.7
+* e2032a7 : 1.5
+* d148750 : version1.5
+* dcfac00 : Commission breakup script
+* 9bbcd82 : Mycred duration parameter
+* 706473b : global usage fix in points criteria for badges and certificates
+* 1171d22 : Commission breakup in Widgets
+* cf4c168 : WArning message
+* 594daa2 : readme changes
+* 77024f9 : version 1.4
+* a7f2933 : MyCred plugin install check
+* 6a8773e : better log entries
+* 02fa8ff : version1.3.7
+* 2d5837c : security bug fix
+* 9a2820e : fixes
+* 997dde6 : loader class
+* ce65f0e : version1.3.6
+* 38b11e6 : Log entry fix
+* 6f621a5 : Mycred label
+* d7b5f7a : Reload improvement
+* e24d0d8 : Readme updated
+* 99d5b06 : version1.3.5
+* 1494f0c : Login error handling
+* 50ebdcf : My Cred addon insufficient error
+* 54be586 : Bug fix MyCred points
+* 31a8563 : version1.3.4
+* 0b56ef5 : Course not assigning on Take this course button click
+* ddfa990 : MyCred define shortcode bug
+* 665be08 : Front End points deletion
+* 92546a2 : version update 1.3.3
+* 81afc33 : Fixed add user meta
+* 31954be : readme.txt
+* f07c35c : Points history connection
+* 808ff43 : bug fixes
+* 35245cb : Check mycred addon activation
+* 99b0f3e : Mycred Addon activation bug fix
+* 3407124 : Sales array error
+* 71807b8 : version1.3
+* d0d2a84 : Small fixes
+* f331184 : version 1.2
+* c592ad2 : Added points support for Multi course pricing.
+* db3f268 : ADDED Translation files
+* 1df81f6 : version1.1
+* 612fe9b : Fixes in point awarding system.
+* dd43911 : MyCred Widget for Dashboard and Front end Course creation changes
+* dac307c : Version 1.0
+* f724d52 : Initial commit
